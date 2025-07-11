@@ -12,7 +12,7 @@ This project is a Python-based tool for scraping and archiving historical ForexF
 
 ## Project Structure
 
-. ├── main.py # Main script for scraping and saving news data ├── main2.py # Alternate or experimental script (ignored by git) ├── requirements.txt # Python dependencies ├── README.md # Project documentation ├── data/ # Folder containing CSV files for each date └── .gitignore # Git ignore rules
+. ├── main.py # Main script for scraping and saving news data ├── requirements.txt # Python dependencies ├── README.md # Project documentation ├── data/ # Folder containing CSV files for each date └── .gitignore # Git ignore rules
 
 ## Requirements
 
