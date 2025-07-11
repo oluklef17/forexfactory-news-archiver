@@ -1,4 +1,4 @@
-# FF News History Bot
+# FF News Archiver
 
 This project is a Python-based tool for scraping and archiving historical ForexFactory news data. It automates the process of collecting economic news events for specified date ranges and saves the results as CSV files for further analysis.
 
